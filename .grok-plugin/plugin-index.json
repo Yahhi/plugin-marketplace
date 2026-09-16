@@ -1382,6 +1382,17 @@
           }
         ]
       }
+    },
+    "worklore": {
+      "version": "0.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "worklore",
+            "description": "http"
+          }
+        ]
+      }
     }
   }
 }
